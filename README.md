@@ -36,6 +36,12 @@ A backend-focused project I'm currently developing.
 
 I'm using it to improve my understanding of API design, application architecture, and data management while building a project with a structure closer to what I would expect in a production backend.
 
+### [Hack Davis 2026](https://github.com/bnha4212/Hack-Davis-2026-Warrant-)
+
+A project built for HackDavis 2026.
+
+Worked as part of a team to design and build the application during the hackathon. This project gave me experience collaborating under a short development cycle and integrating different parts of an application into a working product.
+
 ### [HornetHacks_FALL2025](https://github.com/PancakeNinja64/HornetHacks_FALL2025)
 
 A student wellness application built during HornetHacks.
@@ -47,6 +53,13 @@ The project combines a web application with backend functionality, data processi
 A systems programming project written in C.
 
 This project gave me experience working closer to the operating system and helped me better understand Unix concepts, processes, and lower-level programming.
+
+### [sanriodle](https://github.com/PancakeNinja64/sanriodle)
+
+A Sanrio-themed Wordle game built with JavaScript.
+
+A smaller project where I worked on game logic, state management, and translating the rules of Wordle into a working browser application.
+
 
 ## What I'm Working On
 
