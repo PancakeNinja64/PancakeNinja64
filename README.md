@@ -30,29 +30,23 @@ I enjoy working on APIs, databases, backend architecture, and systems programmin
 
 ## Projects
 
-### Archivum
+### [Archivum](https://github.com/PancakeNinja64/Archivum)
 
 A backend-focused project I'm currently developing.
 
 I'm using it to improve my understanding of API design, application architecture, and data management while building a project with a structure closer to what I would expect in a production backend.
 
-[View repository](https://github.com/PancakeNinja64/Archivum)
-
-### HornetHacks Fall 2025
+### [HornetHacks_FALL2025](https://github.com/PancakeNinja64/HornetHacks_FALL2025)
 
 A student wellness application built during HornetHacks.
 
 The project combines a web application with backend functionality, data processing, and a Python machine learning pipeline.
 
-[View repository](https://github.com/PancakeNinja64/HornetHacks_FALL2025)
-
-### myUnix
+### [myUnix](https://github.com/PancakeNinja64/myUnix)
 
 A systems programming project written in C.
 
 This project gave me experience working closer to the operating system and helped me better understand Unix concepts, processes, and lower-level programming.
-
-[View repository](https://github.com/PancakeNinja64/myUnix)
 
 ## What I'm Working On
 
