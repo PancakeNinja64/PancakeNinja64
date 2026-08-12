@@ -48,11 +48,6 @@ A student wellness application built during HornetHacks.
 
 The project combines a web application with backend functionality, data processing, and a Python machine learning pipeline.
 
-### [myUnix](https://github.com/PancakeNinja64/myUnix)
-
-A systems programming project written in C.
-
-This project gave me experience working closer to the operating system and helped me better understand Unix concepts, processes, and lower-level programming.
 
 ### [sanriodle](https://github.com/PancakeNinja64/sanriodle)
 
