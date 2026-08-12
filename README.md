@@ -71,15 +71,6 @@ Built to strengthen my understanding of lower-level programming, operating syste
 
 [View Repository](https://github.com/PancakeNinja64/myUnix)
 
----
-
-## 📊 GitHub Stats
-
-![Zakari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PancakeNinja64\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PancakeNinja64\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
