@@ -46,7 +46,7 @@ Built a multi-source ingestion pipeline integrating GitHub and Hugging Face APIs
 An AI-powered immigrant safety platform, recognized for **Best Use of AI Tools** at HackDavis.
 Built the backend and AI data pipeline using Express.js, Socket.io, and MongoDB Atlas to ingest and verify reports from Google News, X, Instagram, and Reddit, broadcasting live heatmap updates every 15 minutes. Integrated the Claude API to extract locations, summarize reports, and score credibility, filtering low-confidence data before visualization.
 
-### [ZIP — Housing Demand Forecasting](https://github.com/PancakeNinja64)
+### [ZIP — Housing Demand Forecasting](https://github.com/PancakeNinja64/SacHacks)
 A full-stack geospatial platform analyzing 30K+ ZIP codes, built with Next.js, TypeScript, and Mapbox GL.
 Trained a HistGradientBoostingRegressor model (R² = 0.71) to forecast housing demand and reduce manual analysis time.
 
