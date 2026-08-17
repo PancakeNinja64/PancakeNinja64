@@ -1,4 +1,4 @@
-# Hi, I'm Zakari 👋
+# Hi, I'm Zakari!
 I'm a Computer Science student at California State University, Sacramento (Class of 2027), focused on backend engineering.
 
 I enjoy building the parts of an application that don't show up on screen — APIs, databases, caching layers, ingestion pipelines, and the systems that move data reliably between services. Co-founder of [Archivum LLC](https://github.com/PancakeNinja64/Archivum), where I'm building production-style backend infrastructure from the ground up.
